@@ -38,31 +38,9 @@ function page() {
               <img src="img/week1/Screenshot (203).png" class="img-fluid" alt=""/>
             </div>
               <p>
-                And also I was given opportunity to further expand my knowledge in coding by them providing me an UDEMY access to further expand my understanding about NEXTjs.
+                And also I was given opportunity to further expand my knowledge in coding by them providing me an UDEMY access to further expand my understanding about NEXTjs. So for this week I was busy finishing the udemy course which talks about the basics of nextjs, about compenents, factoring and other useful utilities that <strong>NPM</strong> provides
               </p>
 
-
-              <p>
-                Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur
-                adipiscing elit. Praesent
-                sapien massa, convallis a pellentesque nec, egestas non nisi. Lorem ipsum dolor sit amet,
-                consectetur adipiscing elit. Curabitur arcu erat, accumsan id imperdiet et, porttitor at
-                sem. Donec rutrum congue leo eget malesuada.
-              </p>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat.
-                Curabitur arcu erat,
-                accumsan id imperdiet et, porttitor at sem. Vivamus suscipit tortor eget felis porttitor
-                volutpat. Vivamus suscipit tortor eget felis porttitor volutpat. Quisque velit nisi, pretium
-                ut lacinia in, elementum id enim.
-              </p>
-
-              <p>
-                Nulla porttitor accumsan tincidunt. Cras ultricies ligula sed magna dictum porta. Mauris blandit
-                aliquet elit, eget tincidunt
-                nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Lorem ipsum dolor sit amet,
-                consectetur adipiscing elit. Donec sollicitudin molestie malesuada.
-              </p>
             </div>
           {/* next prev ======================*/}
             <nav aria-label="...">

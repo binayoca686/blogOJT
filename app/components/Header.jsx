@@ -10,9 +10,9 @@ function Header() {
   const weekNumber = pathname.substring(pathname.lastIndexOf('/') + 1);
   return (
     <>
-    <Head>
+    {/* <Head>
     <link rel="shortcut icon" href="../public/img/BryanLogoB.png" />
-    </Head>
+    </Head> */}
     <Script src="lib/jquery/jquery.min.js"/>
     <Script src="lib/jquery/jquery-migrate.min.js"/>
     <Script src="lib/popper/popper.min.js"/>

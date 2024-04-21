@@ -6,7 +6,7 @@ function WeeklyBlogs() {
           <a href="/week1">
             <div class="card card-blog">
               <div class="card-img">
-                <a href="/week1"><img src="img/post-1.jpg" alt="" class="img-fluid"/></a>
+                <a href="/week1"><img src="img/week1/Screenshot (202).png" alt="" class="img-fluid"/></a>
               </div>
               <div class="card-body">
                 <div class="card-category-box">
