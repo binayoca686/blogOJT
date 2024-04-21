@@ -1,5 +1,4 @@
-'use client'
- 
+'use client';
 import { usePathname } from 'next/navigation'
 import Head from "next/head";
 import Script from "next/script";
@@ -28,21 +27,32 @@ function Header() {
     <Script src="js/main.js"/>
     
     <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
-      <div class="container">
-        <a className="navbar-brand js-scroll mx-auto" href="#page-top">
-          <img src="img/BryanLogoW.png" style={{height: "150px"}}/> 
-        </a>
-      </div>
-      {shouldDisplayBreadcrumb && (
-        <ol className="breadcrumb d-flex justify-content-center">
-          <li className="breadcrumb-item">
-            <a href="/">Home</a>
-          </li>
-          <li className="breadcrumb-item">
-            <a href="#" className='capitalize'>{weekNumber}</a>
-          </li>
-          
-        </ol>
+
+      {shouldDisplayBreadcrumb ? (
+        <>
+          <div class="container">
+            <a className="navbar-brand js-scroll mx-auto" href="/">
+              <img src="img/BryanLogoW.png" style={{height: "150px"}}/> 
+            </a>
+          </div>
+          <ol className="breadcrumb d-flex justify-content-center">
+            <li className="breadcrumb-item">
+              <a href="/">Home</a>
+            </li>
+            <li className="breadcrumb-item">
+              <a href="#" className='capitalize'>{weekNumber}</a>
+            </li>
+            
+          </ol>
+        </>
+      ): (
+        <>
+          <div class="container">
+            <a className="navbar-brand js-scroll mx-auto" href="#page-top">
+              <img src="img/BryanLogoW.png" style={{height: "150px"}}/> 
+            </a>
+          </div>
+        </> 
       )}
     </nav>
     

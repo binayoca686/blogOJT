@@ -16,9 +16,7 @@ function WeeklyBlogs() {
                 </div>
                 <h3 class="card-title"><a href="/week1">See more about Week 1</a></h3>
                 <p class="card-description">
-                  Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Praesent sapien massa, convallis
-                  a pellentesque nec,
-                  egestas non nisi.
+                  This pertains for dates October 02, 2023 to October 08, 2023 and yes, including Saturday and Sunday.
                 </p>
               </div>
               
