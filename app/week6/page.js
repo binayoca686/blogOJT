@@ -47,17 +47,17 @@ function page() {
               <img src="img/week6/Screenshot (286).png" class="img-fluid" alt=""/>
             </div>
             <p>
-                Anyway I did it as of Nov 11, that was unnecessary panic, I integrated the TVBET games to us, along with gamelaunch, but in demo for the meantime.
+                Anyway I did it as of Nov 13, that was unnecessary panic, I integrated the TVBET games to us, along with gamelaunch, but in demo for the meantime.
             </p>
             </div>
           {/* next prev ======================*/}
             <nav aria-label="...">
               <ul class="pagination">
                 <li class="page-item ">
-                  <a class="page-link" href="/week4">Previous</a>
+                  <a class="page-link" href="/week5">Previous</a>
                 </li>
                 <li class="page-item">
-                  <a class="page-link" href="/week6">Next</a>
+                  <a class="page-link" href="/week7">Next</a>
                 </li>
               </ul>
             </nav>
