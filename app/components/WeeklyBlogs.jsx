@@ -178,6 +178,50 @@ function WeeklyBlogs() {
           </a>
         </div>
 
+        <div class="col-md-4">
+          <a href="/week9">
+            <div class="card card-blog">
+              <div class="card-img">
+              <a href="/week9"><img src="img/week9/ss2.png" alt="" class="img-fluid"/></a>
+              </div>
+              <div class="card-body">
+                <div class="card-category-box">
+                  <div class="card-category">
+                    <h6 class="category">Week 9</h6>
+                  </div>
+                </div>
+                <h3 class="card-title"><a href="/week9">Week 9 - Iframes to JSON response</a></h3>
+                <p class="card-description">
+                  This pertains for dates November 27, 2023 to December 01, 2023. and Yes, Nov 27, I still code in that, so is that counted?
+                </p>
+              </div>
+              
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-4">
+          <a href="/week10">
+            <div class="card card-blog">
+              <div class="card-img">
+              <a href="/week10"><img src="img/week10/ss2.png" alt="" class="img-fluid"/></a>
+              </div>
+              <div class="card-body">
+                <div class="card-category-box">
+                  <div class="card-category">
+                    <h6 class="category">Week 10</h6>
+                  </div>
+                </div>
+                <h3 class="card-title"><a href="/week10">Week 10 - Hello Platipus!</a></h3>
+                <p class="card-description">
+                  This pertains for dates November 27, 2023 to December 01, 2023. and Yes, Nov 27, I still code in that, so is that counted?
+                </p>
+              </div>
+              
+            </div>
+          </a>
+        </div>
+
       </div>
   )
 }

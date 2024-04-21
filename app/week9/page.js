@@ -23,37 +23,30 @@ function page() {
           <div class="post-box">
             <blockquote class="blockquote">
               <div class="post-meta">
-                <h1 class="article-title">Week 8 - API's Head Ache 2.</h1>
+                <h1 class="article-title">Week 9 -  Iframes to JSON response.</h1>
               </div>
             </blockquote>
             <div class="post-thumb">
-              <img src="img/week8/ss2.png" class="img-fluid" alt=""/>
+              <img src="img/week9/ss2.png" class="img-fluid" alt=""/>
             </div>
             <div class="article-content">
               <p>
-                Guess what, thanks to POSTMAN and further trial and error, I got hang of it, how the request and response work in API interactions.
+                For this time frame, maybe its all about remork for both TVBET and SmartSoft lobbies, because both of them are Iframe integrated, Sir Maf wants to make it align to our design so I should supposed to fetch the gamelist, and map them with our own front end.
               </p>
 
 
-            <div class="post-thumb">
-            <img src="img/week8/ss3.png" class="img-fluid" alt=""/>
-            </div>
             <p>
-                Now I can now map for each json format I get from API response, this will be smooth sailing from now on. I hope so.
-            </p>
-
-            <p>
-                Overall as of Nov. 24, I had done the API functions that get the Game List available and Gamelaunch function for it.
+                Overall as of Dec. 01, I had done the clean up, created each lobby into pure fetch from API, and since TVBET has no API that gives gamelist I create a json file containing its game list and fetch it in our front end.
             </p>
             </div>
           {/* next prev ======================*/}
             <nav aria-label="...">
               <ul class="pagination">
                 <li class="page-item ">
-                  <a class="page-link" href="/week7">Previous</a>
+                  <a class="page-link" href="/week8">Previous</a>
                 </li>
                 <li class="page-item">
-                  <a class="page-link" href="/week9">Next</a>
+                  <a class="page-link" href="/week10">Next</a>
                 </li>
               </ul>
             </nav>

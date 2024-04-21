@@ -27,7 +27,7 @@ export default function Home() {
               Blogs
             </h3>
             <p class="subtitle-a">
-              Weekly Blogs Selections.
+              Click Weekly Blogs Selections to See more.
             </p>
             <div class="line-mf"></div>
           </div>
