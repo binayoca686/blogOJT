@@ -23,7 +23,7 @@ function page() {
           <div class="post-box">
             <blockquote class="blockquote">
               <div class="post-meta">
-                <h1 class="article-title">Week 5, Trello is Hard!.</h1>
+                <h1 class="article-title">Week 6, 666 is for Luck!.</h1>
               </div>
             </blockquote>
             <div class="post-thumb">
@@ -38,7 +38,7 @@ function page() {
               <img src="img/week5/ss6.png" class="img-fluid" alt=""/>
             </div>
             <p>
-                But I enjoy the fact that using <strong>OpenAI</strong> is a lot easier than I think, React DND is much harder than I think on contrary, Hell yeah, i got it in the end, satisfying enough my code works when dragging those coloumns and working as intended and those 3 tasks is now done, I can now start the Casino web app.
+                But I enjoy the fact that using <strong>OpenAI</strong> is a lot easier than I think, React DND is much harder than I think on contrary, Hell yeah, i got it in the end, satisfying enough my code works when dragging those coloumns and working as intended.
             </p>
             </div>
           {/* next prev ======================*/}

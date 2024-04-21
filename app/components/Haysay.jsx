@@ -31,7 +31,7 @@ function Haysay() {
       {/* <h1 class="intro-title mb-4">I am Bryan Bayoca</h1> */}
       <p style={{fontSize: '30px'}} class="intro-title mb-4">console.log("I am Bryan Bayoca");</p>
       <p style={{fontSize: '20px'}} class="intro-subtitle">echo <span ref={el} /></p>
-      <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#blog" role="button">See Weekly Blogs</a></p> 
+      <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#blog" role="button">See My Weekly Blogs</a></p> 
     </div>
   )
 }
