@@ -1,11 +1,20 @@
 'use client';
 import { usePathname } from 'next/navigation';
 import Head from "next/head";
+import React, { useEffect, useState } from 'react';
 
 function Header() {
   const pathname = usePathname();
   const shouldDisplayBreadcrumb = pathname.includes("week");
   const weekNumber = pathname.substring(pathname.lastIndexOf('/') + 1);
+
+  const [initialLoad, setInitialLoad] = useState(true);
+  useEffect(() => {
+    if (initialLoad) {
+      console.log('Component initialized!');
+      setInitialLoad(false); 
+    }
+  }, [initialLoad]);
   return (
     <>
     <Head>
