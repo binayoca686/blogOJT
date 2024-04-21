@@ -23,33 +23,27 @@ function page() {
           <div class="post-box">
             <blockquote class="blockquote">
               <div class="post-meta">
-                <h1 class="article-title">Week 8, API's Head Ache.</h1>
+                <h1 class="article-title">Week 8, API's Head Ache 2.</h1>
               </div>
             </blockquote>
             <div class="post-thumb">
-              <img src="img/week7/ss2.png" class="img-fluid" alt=""/>
+              <img src="img/week8/ss2.png" class="img-fluid" alt=""/>
             </div>
             <div class="article-content">
               <p>
-                And that is the problem there are many to read and I dont want to<strong> read</strong> , thats a joke, any way there is some new to this <strong>Smart Soft Gaming</strong>. The API request involves with custom header so I push my brain to learn node.js in deeply manner. 
+                Guess what, thanks to POSTMAN and further trial and error, I got hang of it, how the request and response work in API interactions.
               </p>
 
 
             <div class="post-thumb">
-            <img src="img/week7/ss3.png" class="img-fluid" alt=""/>
+            <img src="img/week8/ss3.png" class="img-fluid" alt=""/>
             </div>
             <p>
-                Since Next.js has a file routing and filename convention, I utilized it, using node as a backend, create an api which takes request body from front-end based from what game card the user clicked. The at the api backend, get those request body, and request to the Smartsoft API, to get the JSON response I want to get like game link with One time token along, so I can supply it to my API when launching the game.
+                Now I can now map for each json format I get from API response, this will be smooth sailing from now on. I hope so.
             </p>
 
-            <div class="post-thumb">
-            <img src="img/week7/ss4.jpg" class="img-fluid" alt=""/>
-            </div>
             <p>
-                Also on Nov 13, at 10:00 AM, we had meeting along with Raymark, Abegail and Jhoebert with how things going on with our OJT with them, I presented my three tasks Clones and my current progress in Casino.
-            </p>
-            <p>
-                Overall as of Nov. 17, I had done the API that will catch the request body from frontend, and gamelaunch is still on WIP.
+                Overall as of Nov. 24, I had done the API functions that get the Game List available and Gamelaunch function for it.
             </p>
             </div>
           {/* next prev ======================*/}

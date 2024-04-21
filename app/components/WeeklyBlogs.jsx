@@ -168,9 +168,9 @@ function WeeklyBlogs() {
                     <h6 class="category">Week 8</h6>
                   </div>
                 </div>
-                <h3 class="card-title"><a href="/week8">Week 8 - API's Head Ache</a></h3>
+                <h3 class="card-title"><a href="/week8">Week 8 - API's Head Ache 2</a></h3>
                 <p class="card-description">
-                  This pertains for dates November 13, 2023 to November 17, 2023.
+                  This pertains for dates November 20, 2023 to November 24, 2023.
                 </p>
               </div>
               
