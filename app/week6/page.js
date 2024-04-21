@@ -27,18 +27,27 @@ function page() {
               </div>
             </blockquote>
             <div class="post-thumb">
-              <img src="img/week5/Screenshot (225).png" class="img-fluid" alt=""/>
+              <img src="img/week6/Screenshot (275).png" class="img-fluid" alt=""/>
             </div>
             <div class="article-content">
               <p>
-                Yes, that was hard, gonna spoil here, I had taken almost 7 days to complete this, just from reading the documentation of react DND that Atlassan provided to doing function that triggers crud in each drag of the columns and tasks rows that is inside the coloums of To do, In Progress and Done and also allow image uploads is something absurd <strong>YAWA</strong>. 
+                As usual I start from header, then I build Owl Carousel for categories sliders below header, it is with use of <strong>Tailwind CSS</strong> and MUI components, just a small effort initial front end.
               </p>
 
             <div class="post-thumb">
-              <img src="img/week5/ss6.png" class="img-fluid" alt=""/>
+              <img src="img/week6/Screenshot (274).png" class="img-fluid" alt=""/>
             </div>
             <p>
-                But I enjoy the fact that using <strong>OpenAI</strong> is a lot easier than I think, React DND is much harder than I think on contrary, Hell yeah, i got it in the end, satisfying enough my code works when dragging those coloumns and working as intended.
+                Sir Maf, discussed before to avoid being overwhelm, I should start with one casino game provider, <strong>TVBET Gaming,</strong> so I read the documentation of the API of TVBET, Holy Moly, there is a lot to learn, from initializing, to api request, payloads that contain certification provided by TVBET to strastan, and the realtime exchange of token for each players actions back to api provider.
+            </p>
+            <div class="post-thumb">
+              <img src="img/week6/Screenshot (284).png" class="img-fluid" alt=""/>
+            </div>
+            <div class="post-thumb">
+              <img src="img/week6/Screenshot (286).png" class="img-fluid" alt=""/>
+            </div>
+            <p>
+                Anyway I did it as of Nov 11, that was unnecessary panic, I integrated the TVBET games to us, along with gamelaunch, but in demo for the meantime.
             </p>
             </div>
           {/* next prev ======================*/}
