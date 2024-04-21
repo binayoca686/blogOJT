@@ -22,7 +22,7 @@ function page() {
           <div class="post-box">
             <blockquote class="blockquote">
               <div class="post-meta">
-                <h1 class="article-title">Week 2, Finishing UP and Starting UP.</h1>
+                <h1 class="article-title">Week 3, Something Big Comming!.</h1>
               </div>
             </blockquote>
             <div class="post-thumb">
