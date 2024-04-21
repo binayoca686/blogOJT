@@ -35,7 +35,7 @@ function page() {
               </p>
 
             <div class="post-thumb">
-              <img src="img/week1/Screenshot (203).png" class="img-fluid" alt=""/>
+              <img src="img/week3/Screenshot (242).png" class="img-fluid" alt=""/>
             </div>
               <p>
                 I was also expose in using online databases like <strong>MongoDB and Firebse</strong> which are NoSQL databases, it was a new experience for me, the structure was diffrent from MySQL, so I was taken a lot of time adapting that.
@@ -56,7 +56,7 @@ function page() {
           {/* next prev ====================*/}
 
           </div>
-        </div>
+        </div> 
       </div>
     </div>
   </section>

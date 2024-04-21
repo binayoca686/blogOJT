@@ -50,7 +50,7 @@ function WeeklyBlogs() {
           <a href="/week3">
             <div class="card card-blog">
               <div class="card-img">
-              <a href="/week3"><img src="img/week3/Screenshot (241).png" alt="" class="img-fluid"/></a>
+              <a href="/week3"><img src="img/week3/Screenshot (242).png" alt="" class="img-fluid"/></a>
               </div>
               <div class="card-body">
                 <div class="card-category-box">
