@@ -46,7 +46,7 @@ export default function Home() {
         <div class="col-sm-12">
           <div class="title-box text-center">
             <h3 class="title-a">
-              Blog
+              Blogs
             </h3>
             <p class="subtitle-a">
               Weekly Blogs Selections.
@@ -87,7 +87,9 @@ export default function Home() {
       </div>
     </footer>
   </section>
-  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+  <a href="#" class="back-to-top">
+    <i class="fa fa-chevron-up"></i>
+  </a>
   {/* <div id="preloader"></div>  */}
 </>
   );

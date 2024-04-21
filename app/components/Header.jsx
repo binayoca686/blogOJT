@@ -1,18 +1,18 @@
-'use client';
-import { usePathname } from 'next/navigation'
+// 'use client';
+// import { usePathname } from 'next/navigation'
 import Head from "next/head";
 import Script from "next/script";
 
 
 function Header() {
-  const pathname = usePathname();
-  const shouldDisplayBreadcrumb = pathname.includes("week");
-  const weekNumber = pathname.substring(pathname.lastIndexOf('/') + 1);
+  // const pathname = usePathname();
+  // const shouldDisplayBreadcrumb = pathname.includes("week");
+  // const weekNumber = pathname.substring(pathname.lastIndexOf('/') + 1);
   return (
     <>
-    {/* <Head>
+    <Head>
     <link rel="shortcut icon" href="../public/img/BryanLogoB.png" />
-    </Head> */}
+    </Head>
     <Script src="lib/jquery/jquery.min.js"/>
     <Script src="lib/jquery/jquery-migrate.min.js"/>
     <Script src="lib/popper/popper.min.js"/>
@@ -28,7 +28,7 @@ function Header() {
     
     <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
 
-      {shouldDisplayBreadcrumb ? (
+      {/* {shouldDisplayBreadcrumb ? (
         <>
           <div class="container">
             <a className="navbar-brand js-scroll mx-auto" href="/">
@@ -53,7 +53,12 @@ function Header() {
             </a>
           </div>
         </> 
-      )}
+      )} */}
+      <div class="container">
+        <a className="navbar-brand js-scroll mx-auto" href="#page-top">
+          <img src="img/BryanLogoW.png" style={{height: "150px"}}/> 
+        </a>
+      </div>
     </nav>
     
     </>
