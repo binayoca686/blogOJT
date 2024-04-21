@@ -1,3 +1,4 @@
+
 import Head from "next/head";
 import Script from "next/script";
 import Header from "./components/Header";
@@ -8,8 +9,8 @@ export default function Home() {
 
   return (
 <>
-  <Header/>
-
+  
+<Header/>
   <div id="home" class="intro route bg-image" style={{backgroundImage: "url(img/intro-bg2.jpg)"}}>
     <div class="overlay-itro"></div>
     <div class="intro-content display-table">
@@ -86,16 +87,8 @@ export default function Home() {
       </div>
     </footer>
   </section>
-
-
   <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
   {/* <div id="preloader"></div>  */}
-
- 
-
-
-
-
 </>
   );
 }
