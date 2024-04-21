@@ -54,9 +54,8 @@ function page() {
               
             </div>
               <p>
-                I was also expose in using online databases like <strong>MongoDB and Firebse</strong> which are NoSQL databases, it was a new experience for me, the structure was diffrent from MySQL, so I was taken a lot of time adapting that.
+                We had I meeting about the upcoming project where we will be building an online casino, we would use Next.js to build this web app, we are going to use external API's from casino providers that are availabe to build a casino with different providers, slot games, keno, etc. I had to finish the remaining task I had, for refresher is was the <strong>Google Shopping, Trello Clone, and Slack Clone.</strong>
               </p>
-
             </div>
           {/* next prev ======================*/}
             <nav aria-label="...">
