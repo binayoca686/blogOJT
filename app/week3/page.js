@@ -42,6 +42,13 @@ function page() {
             <div class="post-thumb">
               <img src="img/week3/Screenshot (249).png" class="img-fluid" alt=""/>
             </div>
+            <br/>
+            <br/>
+            <center>
+                <h5>
+                    This is where a big wave is coming...
+                </h5>
+            </center>
             <div class="post-thumb">
               <img src="img/week3/Screenshot (242).png" class="img-fluid" alt=""/>
               
