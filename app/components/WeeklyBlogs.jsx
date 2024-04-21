@@ -214,7 +214,7 @@ function WeeklyBlogs() {
                 </div>
                 <h3 class="card-title"><a href="/week10">Week 10 - Hello Platipus!</a></h3>
                 <p class="card-description">
-                  This pertains for dates November 27, 2023 to December 01, 2023. and Yes, Nov 27, I still code in that, so is that counted?
+                  This pertains for dates December 04, 2023 to December 08, 2023.
                 </p>
               </div>
               

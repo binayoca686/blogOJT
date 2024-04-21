@@ -23,30 +23,35 @@ function page() {
           <div class="post-box">
             <blockquote class="blockquote">
               <div class="post-meta">
-                <h1 class="article-title">Week 9 -  Iframes to JSON response.</h1>
+                <h1 class="article-title">Week 10 -  Hello Platipus!</h1>
               </div>
             </blockquote>
             <div class="post-thumb">
-              <img src="img/week9/ss2.png" class="img-fluid" alt=""/>
+              <img src="img/week10/ss3.png" class="img-fluid" alt=""/>
             </div>
             <div class="article-content">
               <p>
-                For this time frame, maybe its all about remork for both TVBET and SmartSoft lobbies, because both of them are Iframe integrated, Sir Maf wants to make it align to our design so I should supposed to fetch the gamelist, and map them with our own front end.
+                For this time frame, I started the front end for the web app settings page or rather member center, where users can change or set thier account settings. Also fixed the instance that when launching a game it opens a new tab, I do that by create a page where it is dynamically get the sources of game and display it in iframe so players could still play inside the web app.
               </p>
-
+              <div class="post-thumb">
+              <img src="img/week10/ss4.png" class="img-fluid" alt=""/>
+            </div>
+            <p>
+                Also hello to the new API that I recently added, It is the <strong>Platipus Gaming API</strong>. After many trial and errors, the API give an response after I created the correct payload for it.
+            </p>
 
             <p>
-                Overall as of Dec. 01, I had done the clean up, created each lobby into pure fetch from API, and since TVBET has no API that gives gamelist I create a json file containing its game list and fetch it in our front end.
+                Overall as of Dec. 08, I had done the the member center pages and added a new API which is Platipus Gaming.
             </p>
             </div>
           {/* next prev ======================*/}
             <nav aria-label="...">
               <ul class="pagination">
                 <li class="page-item ">
-                  <a class="page-link" href="/week8">Previous</a>
+                  <a class="page-link" href="/week9">Previous</a>
                 </li>
                 <li class="page-item">
-                  <a class="page-link" href="/week10">Next</a>
+                  <a class="page-link" href="/week11">Next</a>
                 </li>
               </ul>
             </nav>
