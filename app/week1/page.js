@@ -49,7 +49,7 @@ function page() {
                   <a class="page-link">Previous</a>
                 </li>
                 <li class="page-item">
-                  <a class="page-link" href="week2">Next</a>
+                  <a class="page-link" href="/week2">Next</a>
                 </li>
               </ul>
             </nav>

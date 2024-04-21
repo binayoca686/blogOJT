@@ -45,11 +45,11 @@ function page() {
           {/* next prev ======================*/}
             <nav aria-label="...">
               <ul class="pagination">
-                <li class="page-item disabled">
-                  <a class="page-link">Previous</a>
+                <li class="page-item">
+                  <a class="page-link" href="/week1">Previous</a>
                 </li>
                 <li class="page-item">
-                  <a class="page-link" href="week2">Next</a>
+                  <a class="page-link" href="/week3">Next</a>
                 </li>
               </ul>
             </nav>
