@@ -14,6 +14,19 @@ export default function Home() {
     <div class="intro-content display-table">
       <div class="table-cell">
         <div class="container">
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
           <p class="display-6 color-d">Hello, world!</p>
           <h1 class="intro-title mb-4">I am Bryan Bayoca</h1>
           <p class="intro-subtitle"><span class="text-slider-items">TLC Student, Strastan Intern, Web Developer, Web Designer,Frontend Developer</span><strong class="text-slider"></strong></p>
