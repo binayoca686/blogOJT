@@ -31,7 +31,7 @@ function page() {
 
             <div class="article-content">
               <p>
-                Through udemy, I further learned about <strong> usestate of react, redux, creating authentication by using JWT for each user's crud inside a seesion</strong> using this, I build a clone for Open Table, a restuarant web app where user can log in, set order with availablitity system using <strong>PostgreSQL </strong>database. I use SUPERBASE, an online platform that provides live/online databases including PostgreSQL.
+                Through udemy, I further learned about <strong> usestate of react, redux, creating authentication by using JWT for each user's crud inside a session</strong> using this, I build a clone for Open Table, a restuarant web app where user can log in, set order with availablitity system using <strong>PostgreSQL </strong>database. I use SUPERBASE, an online platform that provides live/online databases including PostgreSQL.
               </p>
 
             <div class="post-thumb">
