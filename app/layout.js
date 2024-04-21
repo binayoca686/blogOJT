@@ -32,7 +32,6 @@ export default function RootLayout({ children }) {
         <Script src="lib/counterup/jquery.counterup.js"/>
         <Script src="lib/owlcarousel/owl.carousel.min.js"/>
         <Script src="lib/lightbox/js/lightbox.min.js"/>
-        <Script src="lib/typed/typed.min.js"/>
         <Script src="contactform/contactform.js"/>
         <Script src="js/main.js"/>
       

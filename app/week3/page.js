@@ -1,6 +1,7 @@
 
 import React from 'react'
 import Header from '../components/Header'
+import Link from 'next/link'
 
 
 function page() {
@@ -26,16 +27,24 @@ function page() {
               </div>
             </blockquote>
             <div class="post-thumb">
-              <img src="img/week1/Screenshot (240).png" class="img-fluid" alt=""/>
+              <img src="img/week3/Screenshot (241).png" class="img-fluid" alt=""/>
             </div>
-
             <div class="article-content">
               <p>
-                Through udemy, I further learned about <strong> usestate of react, redux, creating authentication by using JWT for each user's crud inside a seesion</strong> using this, I build a clone for Open Table, a restuarant web app where user can log in, set order with availablitity system using <strong>PostgreSQL </strong>database. I use SUPERBASE, an online platform that provides live/online databases including PostgreSQL.
+                Since sir Maf told us that <strong>he will not based it in hours we spend in OJT, but instead the deliverables,</strong> we tend to do it even on weekends so that we can finish it faster, I am nearing to finish the OPEN Table clone that I am doing so I could start with the 3 task he assigned me after I finished the UDEMY course, and by the time of October 17, 2023 I have finished the Open Table Clone. I started with the first task on creating Google Shopping, I have created the front end and backend of the <Link style={{color: "blue"}}href="https://github.com/binayoca686/webScrapper.git">Google Shopping Clone</Link>(click to see repository).
               </p>
-
+            <div class="post-thumb">
+              <img src="img/week3/ss2.png" class="img-fluid" alt=""/>
+            </div>
+                <p>
+                    The backend consist of calling the api, ang getting a json reponse from it, It is relatively hard because I use  <strong>TypeScript </strong> in building the web app, where I need to declare what type of a variable is, <strong>TypeScript </strong>is so picky that I always get error if I dont define what exepected type a variable is. I use Oxylabs to scrape to the products available from the provider.
+                </p>
+            <div class="post-thumb">
+              <img src="img/week3/Screenshot (249).png" class="img-fluid" alt=""/>
+            </div>
             <div class="post-thumb">
               <img src="img/week3/Screenshot (242).png" class="img-fluid" alt=""/>
+              
             </div>
               <p>
                 I was also expose in using online databases like <strong>MongoDB and Firebse</strong> which are NoSQL databases, it was a new experience for me, the structure was diffrent from MySQL, so I was taken a lot of time adapting that.
