@@ -28,9 +28,10 @@ export default function Home() {
         <br/>
         <br/>
         <br/>
-          <p class="display-6 color-d">Hello, world!</p>
-          <h1 class="intro-title mb-4">I am Bryan Bayoca</h1>
-          <p class="intro-subtitle"><span class="text-slider-items">TLC Student, Strastan Intern, Web Developer, Web Designer,Frontend Developer</span><strong class="text-slider"></strong></p>
+          <p class="display-6 color-d">cout &lt;&lt; "Hello, world!" &lt;&lt; endl;</p>
+          {/* <h1 class="intro-title mb-4">I am Bryan Bayoca</h1> */}
+          <p style={{fontSize: '30px'}} class="intro-title mb-4">console.log("I am Bryan Bayoca");</p>
+          <p style={{fontSize: '20px'}} class="intro-subtitle"><span>echo </span><span class="text-slider-items">"TLC Student", "Strastan Intern", "Web Developer", "Web Designer","Frontend Developer"</span><strong class="text-slider"></strong></p>
           <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#blog" role="button">See Weekly Blogs</a></p> 
         </div>
       </div>
