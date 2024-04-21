@@ -42,10 +42,10 @@ function Header() {
             <li className="breadcrumb-item">
               <a href="#" className='capitalize'>{weekNumber}</a>
             </li>
-            
+
           </ol>
         </>
-      ): (
+      ):(
         <>
           <div class="container">
             <a className="navbar-brand js-scroll mx-auto" href="#page-top">
